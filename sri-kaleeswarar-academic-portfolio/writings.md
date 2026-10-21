@@ -2,12 +2,14 @@
 layout: default
 title: Writings
 permalink: /writings/
-description: Tamil science writing, translation, technical explainers, and educational articles.
+description: Tamil science writing, technical articles, translation, and educational material.
 ---
-<section class="page-hero page-shell"><p class="eyebrow">WRITING & TRANSLATION</p><h1>Science should travel across languages.</h1><p class="lead">A selection of Tamil science and technology writing, translations, and accessible technical explanations. Add links to the original publications so readers can verify and explore each piece.</p></section>
+<section class="page-hero page-shell"><p class="eyebrow">WRITING & PUBLIC COMMUNICATION</p><h1>Science should travel across languages.</h1><p class="lead">My writing focuses on making science and technology accessible, especially for Tamil readers. The publication counts below are my current portfolio figures; individual articles can be added with direct publisher links.</p></section>
 <section class="content-section page-shell"><div class="content-grid">
-<article class="content-card"><p class="eyebrow">TAMIL SCIENCE WRITING</p><h2>Science & technology articles</h2><p>Articles explaining physics, electronics, open-source technology, Python, and related topics for Tamil readers.</p><p><strong>Add:</strong> article title, publisher, publication date, and original URL.</p></article>
-<article class="content-card"><p class="eyebrow">TRANSLATION</p><h2>Literature and science in translation</h2><p>Translation work and editorial contributions, with appropriate attribution to original authors and publication venues.</p><p><strong>Add:</strong> source work, author, language pair, and publication permission details where needed.</p></article>
-<article class="content-card"><p class="eyebrow">TECHNICAL EXPLAINERS</p><h2>Open-source and Python</h2><p>Beginner-friendly technical material, practical computing tutorials, and explanations of tools used in science.</p></article>
-<article class="content-card"><p class="eyebrow">EDITORIAL</p><h2>Editing and proofreading</h2><p>Selected proofreading and editorial work. List only work you can publicly identify and have permission to reference.</p></article>
-</div><p class="notice" style="margin-top:22px">To add a writing item, duplicate one of these cards or create a Markdown post in <code>_posts/</code>. Link to the publisher rather than copying full copyrighted articles onto this site.</p></section>
+<article class="content-card"><p class="eyebrow">KANIYAM.COM</p><h2>145+ articles</h2><p>Articles covering electronics, quantum mechanics, computer science, open educational material, and science achievements.</p></article>
+<article class="content-card"><p class="eyebrow">BOOKDAY.IN</p><h2>15 articles</h2><p>Science and technology articles published through Bookday.in.</p></article>
+<article class="content-card"><p class="eyebrow">ARIVIYAL PALAGAI</p><h2>11 physics & technology articles</h2><p>Continuous contributions to Ariviyal Palagai on physics and technology.</p></article>
+<article class="content-card"><p class="eyebrow">PUTHIYA THENDRAL</p><h2>15 science articles</h2><p>Science-focused contributions to Puthiya Thendral magazine.</p></article>
+<article class="content-card"><p class="eyebrow">TAMIL COMPUTER PUBLICATIONS</p><h2>Selected publications</h2><p>Some of my technical articles have also appeared in Tamil computer magazines.</p></article>
+<article class="content-card"><p class="eyebrow">BOOK PROJECT</p><h2>Electronics book</h2><p>My electronics book is currently at the publication stage with Ailaysa International Publisher.</p></article>
+</div><div class="notice" style="margin-top:22px">For a professor-facing portfolio, add direct links to representative articles rather than uploading full copyrighted articles. A future version can provide filters by physics, electronics, computing, Tamil science, and publication venue.</div></section>

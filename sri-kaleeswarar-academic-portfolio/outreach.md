@@ -2,12 +2,13 @@
 layout: default
 title: Outreach & Teaching
 permalink: /outreach/
-description: Public lectures, open-science education, and accessible physics communication.
+description: Quantum-computing education, Tamil science communication, seminars, and community work.
 ---
-<section class="page-hero page-shell"><p class="eyebrow">TEACHING & PUBLIC ENGAGEMENT</p><h1>Connecting physics with people.</h1><p class="lead">Science communication is part of how I work: translating mathematical and technical ideas into explanations people can engage with, in English and Tamil.</p></section>
+<section class="page-hero page-shell"><p class="eyebrow">TEACHING & PUBLIC ENGAGEMENT</p><h1>Connecting physics with people.</h1><p class="lead">I enjoy translating mathematical and technical ideas into accessible explanations for entry-level learners and wider audiences, in conversational English and Tamil.</p></section>
 <section class="content-section page-shell"><div class="content-grid">
-<article class="content-card"><p class="eyebrow">OPEN SCIENCE LABS</p><h2>Quantum computing lecture series</h2><p>Educational sessions introducing quantum-computing ideas, algorithms, and their physical foundations.</p><p><strong>Add:</strong> talk title, date, recording/slides, audience, and organiser confirmation.</p></article>
-<article class="content-card"><p class="eyebrow">TAMIL SCIENCE COMMUNICATION</p><h2>Physics explained in Tamil</h2><p>Accessible explanations and outreach sessions designed for learners who benefit from scientific material in Tamil.</p></article>
-<article class="content-card"><p class="eyebrow">CAMPUS & COMMUNITY</p><h2>Seminars and workshops</h2><p>List verified seminars, workshops, invited talks, student activities, and community contributions with links to event pages when available.</p></article>
-<article class="content-card"><p class="eyebrow">TEACHING MATERIALS</p><h2>Notes, slides, and demonstrations</h2><p>Share slides, notebooks, and learning resources that are yours to distribute. Include the intended audience and prerequisites.</p></article>
+<article class="content-card"><p class="eyebrow">OPEN SCIENCE LABS · BRAZIL</p><h2>17 quantum-computing classes</h2><p>Through October 15, I conducted 17 entry-level classes on quantum computing for a general audience. The classes were taught in conversational English and the initiative reached more than 150 active people.</p><p><strong>International reach:</strong> participants/audiences from 10 countries across 5 continents.</p></article>
+<article class="content-card"><p class="eyebrow">TAMIL QUANTUM OUTREACH</p><h2>Kaniyam weekly online meetings</h2><p>I have also been introducing quantum-computing concepts to Tamil audiences through Kaniyam's weekly online meetings, where the initiative has received encouraging audience response.</p></article>
+<article class="content-card"><p class="eyebrow">CAMPUS</p><h2>Physics seminars</h2><p>I have hosted four seminars in my department covering different physics subjects.</p></article>
+<article class="content-card"><p class="eyebrow">COMMUNITY DEVELOPMENT</p><h2>Sakshi International NGO</h2><p>I have worked on women-empowerment and development-programme materials with Sakshi International NGO. The materials have reached more than 20,000 people nationally.</p></article>
+<article class="content-card"><p class="eyebrow">CIVIC AWARENESS</p><h2>Voter-awareness programmes</h2><p>I initiated and organised voter-awareness programmes with Arre Voice at two institutions in Nagercoil.</p></article>
 </div></section>
